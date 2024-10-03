@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>Greetings.Nuget.Demo</PackageId>
+    <Company>[Add a Company if needed]</Company>
+    <Authors>[Add a Authors]</Authors>
+    <Description>[Add a description]</Description>
+    <RepositoryUrl>https://github.com/bengthedberg/Greetings.Nuget.Demo.git</RepositoryUrl>
+    <PackageTags>Demo;NuGet</PackageTags>
+    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>     
+  </PropertyGroup>
+
+</Project>

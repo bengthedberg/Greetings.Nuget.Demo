@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{188A6D27-E12A-4692-914F-9F16DE092261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greetings.Nuget.Demo", "src\Greetings.Nuget.Demo\Greetings.Nuget.Demo.csproj", "{880AE352-6378-4F6F-BDEC-C0845B52AF0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{880AE352-6378-4F6F-BDEC-C0845B52AF0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{880AE352-6378-4F6F-BDEC-C0845B52AF0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{880AE352-6378-4F6F-BDEC-C0845B52AF0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{880AE352-6378-4F6F-BDEC-C0845B52AF0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{880AE352-6378-4F6F-BDEC-C0845B52AF0A} = {188A6D27-E12A-4692-914F-9F16DE092261}
+	EndGlobalSection
+EndGlobal
